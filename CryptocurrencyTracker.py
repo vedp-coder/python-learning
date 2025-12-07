@@ -5,7 +5,7 @@ from datetime import datetime
 import time
 import os
 from tabulate import tabulate
-s
+
 class CryptoPriceTracker:
     def __init__(self):
         self.api_url = "https://api.coingecko.com/api/v3"
