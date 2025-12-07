@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 import time
 import os
-from tabulate import s
+from tabulate import tab
 
 class CryptoPriceTracker:
     def __init__(self):
